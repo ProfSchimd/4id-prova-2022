@@ -1,10 +1,15 @@
 # 4id-prova-2022
 Repository di prova per la lezione su Git (4ID AS 2021-22)
 
-## Questo è un sottotitolo
+## I comandi Git
 
-``Hello World!``
+``clone``
 
-**Bold**
+``add``
 
-*Italic*
+``commit``
+
+``push``
+
+``pull``
+
