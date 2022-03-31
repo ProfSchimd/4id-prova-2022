@@ -15,3 +15,8 @@ Repository di prova per la lezione su Git (4ID AS 2021-22)
 
 ### Comandi per branch e merge
 
+``branch``
+
+``checkout``
+
+``merge``
